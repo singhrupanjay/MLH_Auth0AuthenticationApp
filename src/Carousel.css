@@ -1,0 +1,21 @@
+/* src/Carousel.css */
+.carousel .control-arrow {
+    top: auto;
+    bottom: 10px;
+    background-color:rgb(5, 42, 44);
+}
+
+.carousel .control-prev.control-arrow {
+    left: 10px;
+    margin-top: 20%;
+    margin-left: 20%;
+    background-color:rgb(5, 42, 44);
+}
+
+.carousel .control-next.control-arrow {
+    right: 10px;
+    margin-top: 20%;
+    margin-right: 20%;
+    background-color:rgb(5, 42, 44);
+  }
+  
